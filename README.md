@@ -8,13 +8,13 @@ Features:
 
 ## 🔧 How to Run
 
-1. Backend (Node.js)
+### 1. Backend (Node.js)
 ```bash
 cd "folder where the backend is placed"
 npm install
 node serverbackend.js
-
-2. Frontend
+```
+### 2. Frontend
 ```bash
 cd "folder where the frontend is placed"
 npm install
