@@ -6,7 +6,16 @@ Features:
 - React frontend for real-time motion control
 - Firmware tuning for TMC stepper drivers (sensorless homing, StallGuard)
 
-## How to run
-1. Clone repo
-2. `npm install`
-3. `npm start`
+## 🔧 How to Run
+
+### 1. Backend (Node.js)
+```bash
+cd "folder where the backend is placed"
+npm install
+node serverbackend.js
+
+### 2. Frontend
+```bash
+cd "folder where the frontend is placed"
+npm install
+npm start
