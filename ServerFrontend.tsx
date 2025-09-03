@@ -1,5 +1,4 @@
-// ===============================================
-// ServerFrontend.tsx (REPLACE ENTIRE FILE)
+// ServerFrontend.tsx
 // UI for controlling and monitoring multiple cranes.
 //
 // Architecture (big picture):
