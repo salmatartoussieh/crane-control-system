@@ -8,7 +8,7 @@ Features:
 
 ## 🔧 How to Run
 
-### 1. Backend (Node.js)
+1. Backend (Node.js)
 ```bash
 cd "folder where the backend is placed"
 npm install
